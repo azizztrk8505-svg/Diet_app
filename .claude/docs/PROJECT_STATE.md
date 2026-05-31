@@ -1,7 +1,7 @@
 # PROJECT_STATE — Diet_app
 
-**Last updated:** 2026-05-30
-**Active phase:** FAZ 2 — Frontend tamamlandı, test aşaması
+**Last updated:** 2026-05-31
+**Active phase:** FAZ 2 — Tamamlandı, GitHub'a push edildi
 
 ## Stack
 - Frontend: React + Vite + React Router v6 + Axios + CSS Modules
@@ -37,10 +37,17 @@
 - Diyetisyen: hasta arama (search-patients), atama (assign), bağlantı kesme
 - Yetki kontrolü: /patients/:id/calories artık sadece kendi hastası için çalışıyor
 
-## 🔄 Sıradaki
-- [ ] Uçtan uca test (diyetisyen kayıt → hasta ekle → kalori takibi)
-- [ ] Hasta profili düzenleme (boy, kilo, doğum tarihi girişi)
-- [ ] Geçmiş günlerin yemek logu görüntüleme
+### FAZ 2 — Eksik Özellikler (2026-05-31)
+- Hasta profili düzenleme: PUT /api/patient/profile (boy, kilo, doğum tarihi)
+- Geçmiş yemek logu: GET /api/patient/food-log?date=YYYY-MM-DD
+- Diyetisyen hasta detay: BMI + doğum tarihi gösterimi eklendi
+- GitHub push: commit 3cd0202 → main
+
+## 🔄 Sıradaki (FAZ 3)
+- [ ] Diyetisyen → hastanın geçmiş yemek loglarını görmesi
+- [ ] Hasta profil fotoğrafı
+- [ ] Bildirim / uyarı sistemi (kalori hedef aşımı)
+- [ ] Deploy (Railway / Vercel)
 
 ## 📂 Dosya Yapısı
 ```
@@ -73,4 +80,5 @@ cd frontend && npm run dev
 - DB şifresi: 12345 (local postgres)
 - DB adı: diet_app
 - dotenvx global kurulu, .env okuma farklı davranıyor — node server.js yeterli
-- Eski kayıtlı kullanıcıların patient_profiles'ı yok, yeniden kayıt gerekebilir
+- backend/.env git'e commit edilmez (.gitignore'da)
+- Login 401 alırsan: yeni kayıt ol, eski kullanıcıların şifresi bilinmiyor olabilir

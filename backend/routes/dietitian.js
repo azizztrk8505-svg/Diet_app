@@ -128,4 +128,26 @@ router.get('/patients/:id/calories', auth, async (req, res) => {
   }
 });
 
+router.get('/patients/:id/food-log', auth, async (req, res) => {
+  try {
+    const access = await pool.query(
+      `SELECT 1 FROM patient_profiles WHERE user_id = $1 AND dietitian_id = $2`,
+      [req.params.id, req.user.userId]
+    );
+    if (access.rowCount === 0) return res.status(403).json({ error: 'Yetkisiz erişim' });
+
+    const date = req.query.date || new Date().toISOString().slice(0, 10);
+    const result = await pool.query(
+      `SELECT id, food_name, calories, log_date, logged_at
+       FROM food_logs
+       WHERE patient_id = $1 AND log_date = $2
+       ORDER BY logged_at ASC`,
+      [req.params.id, date]
+    );
+    res.json(result.rows);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 module.exports = router;

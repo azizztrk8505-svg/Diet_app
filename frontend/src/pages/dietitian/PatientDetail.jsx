@@ -4,6 +4,7 @@ import Layout from '../../components/Layout';
 import {
   getPatient,
   getPatientCalories,
+  getPatientFoodLog,
   unassignPatient,
   updateGoal,
 } from '../../api/dietitian';
@@ -14,17 +15,19 @@ export default function PatientDetail() {
   const navigate = useNavigate();
   const [patient, setPatient] = useState(null);
   const [calories, setCalories] = useState(0);
+  const [foodLog, setFoodLog] = useState([]);
   const [goalInput, setGoalInput] = useState('');
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    Promise.all([getPatient(id), getPatientCalories(id)])
-      .then(([p, c]) => {
+    Promise.all([getPatient(id), getPatientCalories(id), getPatientFoodLog(id)])
+      .then(([p, c, fl]) => {
         setPatient(p.data);
         setGoalInput(p.data.daily_calorie ?? 2000);
         setCalories(Number(c.data.total_calories));
+        setFoodLog(fl.data);
       })
       .finally(() => setLoading(false));
   }, [id]);
@@ -130,6 +133,22 @@ export default function PatientDetail() {
           <button className={styles.removeBtn} onClick={handleUnassign}>
             Hastayı çıkar
           </button>
+        </div>
+
+        <div className={styles.card}>
+          <h2 className={styles.cardTitle}>Bugünkü yemekler</h2>
+          {foodLog.length === 0 ? (
+            <p className={styles.empty}>Henüz yemek eklenmedi.</p>
+          ) : (
+            <ul className={styles.foodList}>
+              {foodLog.map((item) => (
+                <li key={item.id} className={styles.foodItem}>
+                  <span className={styles.foodName}>{item.food_name}</span>
+                  <span className={styles.foodCal}>{Math.round(item.calories)} kcal</span>
+                </li>
+              ))}
+            </ul>
+          )}
         </div>
       </div>
     </Layout>

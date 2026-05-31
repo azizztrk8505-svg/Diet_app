@@ -51,17 +51,21 @@ export default function PatientDashboard() {
       .finally(() => setLoading(false));
   }, []);
 
-  const handleSearch = async (e) => {
-    e.preventDefault();
-    if (!query.trim()) return;
+  const handleSearch = async (q) => {
+    if (!q || q.trim().length < 2) { setResults([]); return; }
     setSearching(true);
     try {
-      const res = await searchFood(query);
+      const res = await searchFood(q);
       setResults(res.data);
     } finally {
       setSearching(false);
     }
   };
+
+  useEffect(() => {
+    const timer = setTimeout(() => handleSearch(query), 300);
+    return () => clearTimeout(timer);
+  }, [query]);
 
   const handleAdd = async (item) => {
     await addFood(item.name, Math.round(item.calories));
@@ -195,17 +199,15 @@ export default function PatientDashboard() {
 
         <div className={styles.card}>
           <h2 className={styles.cardTitle}>Yemek ekle</h2>
-          <form className={styles.searchForm} onSubmit={handleSearch}>
+          <div className={styles.searchForm}>
             <input
               className={styles.input}
               placeholder="Yemek ara… (örn. tavuk, elma)"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
             />
-            <button className={styles.searchBtn} type="submit" disabled={searching}>
-              {searching ? 'Aranıyor…' : 'Ara'}
-            </button>
-          </form>
+            {searching && <span style={{fontSize:'13px',color:'var(--color-text-muted)',alignSelf:'center'}}>Aranıyor…</span>}
+          </div>
 
           {results.length > 0 && (
             <ul className={styles.results}>
@@ -215,8 +217,16 @@ export default function PatientDashboard() {
                   className={styles.resultItem}
                   style={{ animationDelay: `${i * 40}ms` }}
                 >
-                  <span className={styles.resultName}>{item.name}</span>
-                  <span className={styles.resultCal}>{Math.round(item.calories)} kcal</span>
+                  <div className={styles.resultInfo}>
+                    <span className={styles.resultName}>{item.name}</span>
+                    <div className={styles.resultMacros}>
+                      <span className={styles.resultCal}>{Math.round(item.calories)} kcal</span>
+                      {item.protein > 0 && <span className={styles.macro}>P: {parseFloat(item.protein).toFixed(1)}g</span>}
+                      {item.carbs > 0 && <span className={styles.macro}>K: {parseFloat(item.carbs).toFixed(1)}g</span>}
+                      {item.fat > 0 && <span className={styles.macro}>Y: {parseFloat(item.fat).toFixed(1)}g</span>}
+                      {item.fiber > 0 && <span className={styles.macro}>L: {parseFloat(item.fiber).toFixed(1)}g</span>}
+                    </div>
+                  </div>
                   <button className={styles.addBtn} onClick={() => handleAdd(item)}>
                     + Ekle
                   </button>

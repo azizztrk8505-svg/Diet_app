@@ -1,0 +1,3552 @@
+[
+    {
+        "name":  "Cows\u0027 milk",
+        "calories":  67.6,
+        "protein":  3.3,
+        "carbs":  4.9,
+        "fat":  4.1,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Milk skim",
+        "calories":  36.6,
+        "protein":  3.7,
+        "carbs":  5.3,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Buttermilk",
+        "calories":  51.6,
+        "protein":  3.7,
+        "carbs":  5.3,
+        "fat":  2.0,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Evaporated, undiluted",
+        "calories":  136.9,
+        "protein":  6.3,
+        "carbs":  9.5,
+        "fat":  7.9,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Fortified milk",
+        "calories":  96.8,
+        "protein":  6.3,
+        "carbs":  8.4,
+        "fat":  3.0,
+        "fiber":  0.1,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Powdered milk",
+        "calories":  500.0,
+        "protein":  26.2,
+        "carbs":  37.9,
+        "fat":  27.2,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "skim, instant",
+        "calories":  341.2,
+        "protein":  35.3,
+        "carbs":  49.4,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "skim, non-instant",
+        "calories":  341.2,
+        "protein":  35.3,
+        "carbs":  49.4,
+        "fat":  0.0,
+        "fiber":  1.2,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Goats\u0027 milk",
+        "calories":  67.6,
+        "protein":  3.3,
+        "carbs":  4.5,
+        "fat":  4.1,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "(1/2 cup ice cream)",
+        "calories":  127.8,
+        "protein":  4.4,
+        "carbs":  13.0,
+        "fat":  4.4,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cocoa",
+        "calories":  93.3,
+        "protein":  3.2,
+        "carbs":  10.3,
+        "fat":  4.4,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "skim. milk",
+        "calories":  51.2,
+        "protein":  7.2,
+        "carbs":  5.2,
+        "fat":  1.6,
+        "fiber":  0.4,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "(cornstarch)",
+        "calories":  110.9,
+        "protein":  3.6,
+        "carbs":  16.1,
+        "fat":  4.0,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Custard",
+        "calories":  114.9,
+        "protein":  5.2,
+        "carbs":  11.3,
+        "fat":  5.6,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ice cream",
+        "calories":  159.6,
+        "protein":  3.2,
+        "carbs":  15.4,
+        "fat":  9.6,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ice milk",
+        "calories":  144.7,
+        "protein":  4.7,
+        "carbs":  16.8,
+        "fat":  5.3,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cream or half-and-half",
+        "calories":  141.7,
+        "protein":  3.3,
+        "carbs":  4.2,
+        "fat":  12.5,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "or whipping",
+        "calories":  361.3,
+        "protein":  1.7,
+        "carbs":  2.5,
+        "fat":  37.0,
+        "fiber":  0.8,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cheese",
+        "calories":  106.7,
+        "protein":  13.3,
+        "carbs":  2.7,
+        "fat":  4.9,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "uncreamed",
+        "calories":  86.7,
+        "protein":  16.9,
+        "carbs":  2.7,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cheddar",
+        "calories":  411.8,
+        "protein":  23.5,
+        "carbs":  0.0,
+        "fat":  35.3,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cheddar, grated cup",
+        "calories":  403.6,
+        "protein":  25.0,
+        "carbs":  1.8,
+        "fat":  33.9,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cream cheese",
+        "calories":  375.0,
+        "protein":  7.1,
+        "carbs":  3.6,
+        "fat":  39.3,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Processed cheese",
+        "calories":  375.0,
+        "protein":  25.0,
+        "carbs":  0.0,
+        "fat":  32.1,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Roquefort type",
+        "calories":  375.0,
+        "protein":  21.4,
+        "carbs":  0.0,
+        "fat":  32.1,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Swiss",
+        "calories":  375.0,
+        "protein":  25.0,
+        "carbs":  0.0,
+        "fat":  28.6,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Eggs raw",
+        "calories":  150.0,
+        "protein":  12.0,
+        "carbs":  0.0,
+        "fat":  12.0,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Eggs Scrambled or fried",
+        "calories":  171.9,
+        "protein":  10.2,
+        "carbs":  0.8,
+        "fat":  12.5,
+        "fiber":  0.0,
+        "category":  "Dairy products",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Yolks",
+        "calories":  352.9,
+        "protein":  17.6,
+        "carbs":  0.0,
+        "fat":  29.4,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Butter",
+        "calories":  714.3,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  78.6,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hydrogenated cooking fat",
+        "calories":  665.0,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  100.0,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lard",
+        "calories":  901.8,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  100.0,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Margarine",
+        "calories":  719.6,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  81.2,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mayonnaise",
+        "calories":  733.3,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  80.0,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Corn oil",
+        "calories":  892.9,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  100.0,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Olive oil",
+        "calories":  892.9,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  100.0,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "French dressing",
+        "calories":  400.0,
+        "protein":  0.0,
+        "carbs":  13.3,
+        "fat":  40.0,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Thousand Island sauce",
+        "calories":  500.0,
+        "protein":  0.0,
+        "carbs":  6.7,
+        "fat":  53.3,
+        "fiber":  0.0,
+        "category":  "Fats, Oils, Shortenings",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Bacon",
+        "calories":  593.8,
+        "protein":  25.0,
+        "carbs":  6.2,
+        "fat":  50.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Beef",
+        "calories":  288.2,
+        "protein":  27.1,
+        "carbs":  0.0,
+        "fat":  18.8,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hamburger",
+        "calories":  288.2,
+        "protein":  24.7,
+        "carbs":  0.0,
+        "fat":  20.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ground lean",
+        "calories":  217.6,
+        "protein":  28.2,
+        "carbs":  0.0,
+        "fat":  11.8,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Roast beef",
+        "calories":  458.8,
+        "protein":  18.8,
+        "carbs":  0.0,
+        "fat":  42.4,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Steak",
+        "calories":  388.2,
+        "protein":  23.5,
+        "carbs":  0.0,
+        "fat":  31.8,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Corned beef",
+        "calories":  217.6,
+        "protein":  25.9,
+        "carbs":  0.0,
+        "fat":  11.8,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pot-pie",
+        "calories":  211.5,
+        "protein":  7.9,
+        "carbs":  14.1,
+        "fat":  12.3,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "chicken",
+        "calories":  217.6,
+        "protein":  27.1,
+        "carbs":  0.0,
+        "fat":  10.6,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Roasted chicken",
+        "calories":  290.0,
+        "protein":  25.0,
+        "carbs":  0.0,
+        "fat":  20.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Chicken livers, fried",
+        "calories":  140.0,
+        "protein":  22.0,
+        "carbs":  2.3,
+        "fat":  14.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Duck, domestic",
+        "calories":  370.0,
+        "protein":  16.0,
+        "carbs":  0.0,
+        "fat":  28.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lamb, chop, broiled",
+        "calories":  417.4,
+        "protein":  20.9,
+        "carbs":  0.0,
+        "fat":  30.4,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Leg roasted",
+        "calories":  365.1,
+        "protein":  23.3,
+        "carbs":  0.0,
+        "fat":  16.3,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pork, chop, 1 thick",
+        "calories":  260.0,
+        "protein":  16.0,
+        "carbs":  0.0,
+        "fat":  21.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ham pan-broiled",
+        "calories":  341.2,
+        "protein":  18.8,
+        "carbs":  0.0,
+        "fat":  25.9,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pork roast",
+        "calories":  364.7,
+        "protein":  24.7,
+        "carbs":  0.0,
+        "fat":  28.2,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pork sausage",
+        "calories":  475.0,
+        "protein":  18.0,
+        "carbs":  0.0,
+        "fat":  44.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Turkey",
+        "calories":  265.0,
+        "protein":  27.0,
+        "carbs":  0.0,
+        "fat":  15.0,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Veal",
+        "calories":  217.6,
+        "protein":  27.1,
+        "carbs":  0.0,
+        "fat":  10.6,
+        "fiber":  0.0,
+        "category":  "Meat, Poultry",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Clams",
+        "calories":  102.4,
+        "protein":  14.1,
+        "carbs":  2.4,
+        "fat":  1.2,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cod",
+        "calories":  170.0,
+        "protein":  28.0,
+        "carbs":  0.0,
+        "fat":  5.0,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Crab meat",
+        "calories":  105.9,
+        "protein":  16.5,
+        "carbs":  1.2,
+        "fat":  2.4,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Flounder",
+        "calories":  200.0,
+        "protein":  30.0,
+        "carbs":  0.0,
+        "fat":  8.0,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Halibut",
+        "calories":  182.0,
+        "protein":  26.0,
+        "carbs":  0.0,
+        "fat":  8.0,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Herring",
+        "calories":  211.0,
+        "protein":  22.0,
+        "carbs":  0.0,
+        "fat":  13.0,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lobster",
+        "calories":  92.0,
+        "protein":  18.0,
+        "carbs":  0.0,
+        "fat":  1.0,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mackerel",
+        "calories":  182.4,
+        "protein":  21.2,
+        "carbs":  0.0,
+        "fat":  10.6,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Salmon",
+        "calories":  141.2,
+        "protein":  20.0,
+        "carbs":  0.0,
+        "fat":  5.9,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sardines",
+        "calories":  211.8,
+        "protein":  25.9,
+        "carbs":  0.0,
+        "fat":  10.6,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Shrimp",
+        "calories":  129.4,
+        "protein":  27.1,
+        "carbs":  0.0,
+        "fat":  1.2,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Swordfish",
+        "calories":  180.0,
+        "protein":  27.0,
+        "carbs":  0.0,
+        "fat":  6.0,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tuna",
+        "calories":  200.0,
+        "protein":  29.4,
+        "carbs":  0.0,
+        "fat":  8.2,
+        "fiber":  0.0,
+        "category":  "Fish, Seafood",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Asparagus",
+        "calories":  18.8,
+        "protein":  1.0,
+        "carbs":  3.1,
+        "fat":  0.0,
+        "fiber":  0.5,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Beans",
+        "calories":  20.0,
+        "protein":  0.8,
+        "carbs":  4.8,
+        "fat":  0.0,
+        "fiber":  0.6,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lima",
+        "calories":  87.5,
+        "protein":  5.0,
+        "carbs":  15.0,
+        "fat":  0.0,
+        "fiber":  1.9,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Red kidney",
+        "calories":  88.5,
+        "protein":  5.8,
+        "carbs":  16.2,
+        "fat":  0.4,
+        "fiber":  1.0,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Broccoli",
+        "calories":  30.0,
+        "protein":  3.3,
+        "carbs":  5.3,
+        "fat":  0.0,
+        "fiber":  1.3,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Carrots",
+        "calories":  30.0,
+        "protein":  0.7,
+        "carbs":  6.7,
+        "fat":  0.0,
+        "fiber":  0.6,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cauliflower",
+        "calories":  25.0,
+        "protein":  2.5,
+        "carbs":  5.0,
+        "fat":  0.0,
+        "fiber":  0.8,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Celery",
+        "calories":  20.0,
+        "protein":  1.0,
+        "carbs":  4.0,
+        "fat":  0.0,
+        "fiber":  1.0,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Corn",
+        "calories":  92.0,
+        "protein":  3.0,
+        "carbs":  21.0,
+        "fat":  1.0,
+        "fiber":  0.8,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cucumbers",
+        "calories":  12.0,
+        "protein":  0.0,
+        "carbs":  2.0,
+        "fat":  0.0,
+        "fiber":  0.4,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Eggplant",
+        "calories":  16.7,
+        "protein":  1.1,
+        "carbs":  5.0,
+        "fat":  0.0,
+        "fiber":  0.6,
+        "category":  "Vegetables A-E",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kale",
+        "calories":  40.9,
+        "protein":  3.6,
+        "carbs":  7.3,
+        "fat":  0.9,
+        "fiber":  0.8,
+        "category":  "Vegetables F-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lentils",
+        "calories":  106.0,
+        "protein":  7.5,
+        "carbs":  19.0,
+        "fat":  0.0,
+        "fiber":  1.2,
+        "category":  "Vegetables F-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lettuce",
+        "calories":  14.0,
+        "protein":  1.0,
+        "carbs":  2.0,
+        "fat":  0.0,
+        "fiber":  0.5,
+        "category":  "Vegetables F-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Okra",
+        "calories":  32.0,
+        "protein":  1.0,
+        "carbs":  7.0,
+        "fat":  0.0,
+        "fiber":  1.0,
+        "category":  "Vegetables F-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Onions",
+        "calories":  38.1,
+        "protein":  1.0,
+        "carbs":  8.6,
+        "fat":  0.0,
+        "fiber":  0.8,
+        "category":  "Vegetables F-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Peas",
+        "calories":  66.0,
+        "protein":  3.0,
+        "carbs":  13.0,
+        "fat":  0.0,
+        "fiber":  0.1,
+        "category":  "Vegetables F-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Potatoes, baked",
+        "calories":  100.0,
+        "protein":  2.0,
+        "carbs":  22.0,
+        "fat":  0.0,
+        "fiber":  0.5,
+        "category":  "Vegetables R-Z",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Spinach",
+        "calories":  26.0,
+        "protein":  3.0,
+        "carbs":  3.0,
+        "fat":  0.0,
+        "fiber":  1.0,
+        "category":  "Vegetables R-Z",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tomatoes",
+        "calories":  20.8,
+        "protein":  0.8,
+        "carbs":  3.8,
+        "fat":  0.0,
+        "fiber":  0.4,
+        "category":  "Vegetables R-Z",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Apples, raw",
+        "calories":  53.8,
+        "protein":  0.0,
+        "carbs":  13.8,
+        "fat":  0.0,
+        "fiber":  0.8,
+        "category":  "Fruits A-F",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Banana",
+        "calories":  56.7,
+        "protein":  0.7,
+        "carbs":  15.3,
+        "fat":  0.0,
+        "fiber":  0.6,
+        "category":  "Fruits A-F",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Avocado",
+        "calories":  171.3,
+        "protein":  1.9,
+        "carbs":  5.6,
+        "fat":  16.7,
+        "fiber":  1.7,
+        "category":  "Fruits A-F",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Dates",
+        "calories":  283.7,
+        "protein":  2.2,
+        "carbs":  75.3,
+        "fat":  0.0,
+        "fiber":  2.0,
+        "category":  "Fruits A-F",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Oranges",
+        "calories":  33.3,
+        "protein":  1.1,
+        "carbs":  8.9,
+        "fat":  0.0,
+        "fiber":  0.6,
+        "category":  "Fruits G-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Grapes",
+        "calories":  45.8,
+        "protein":  0.7,
+        "carbs":  10.5,
+        "fat":  0.0,
+        "fiber":  0.5,
+        "category":  "Fruits G-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Peaches",
+        "calories":  30.7,
+        "protein":  0.9,
+        "carbs":  8.8,
+        "fat":  0.0,
+        "fiber":  0.5,
+        "category":  "Fruits G-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pears",
+        "calories":  54.9,
+        "protein":  0.5,
+        "carbs":  13.7,
+        "fat":  0.5,
+        "fiber":  1.1,
+        "category":  "Fruits G-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pineapple",
+        "calories":  53.6,
+        "protein":  0.7,
+        "carbs":  13.6,
+        "fat":  0.0,
+        "fiber":  0.4,
+        "category":  "Fruits G-P",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Strawberries",
+        "calories":  36.2,
+        "protein":  0.0,
+        "carbs":  8.1,
+        "fat":  0.0,
+        "fiber":  1.3,
+        "category":  "Fruits R-Z",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Watermelon",
+        "calories":  13.0,
+        "protein":  0.2,
+        "carbs":  3.1,
+        "fat":  0.1,
+        "fiber":  0.4,
+        "category":  "Fruits R-Z",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Raisins",
+        "calories":  261.4,
+        "protein":  2.3,
+        "carbs":  93.2,
+        "fat":  0.0,
+        "fiber":  0.8,
+        "category":  "Fruits R-Z",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Bread, white",
+        "calories":  269.8,
+        "protein":  8.6,
+        "carbs":  50.4,
+        "fat":  3.3,
+        "fiber":  2.0,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Whole-wheat bread",
+        "calories":  242.3,
+        "protein":  10.6,
+        "carbs":  47.6,
+        "fat":  3.1,
+        "fiber":  14.9,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Rice",
+        "calories":  362.3,
+        "protein":  7.3,
+        "carbs":  78.5,
+        "fat":  0.0,
+        "fiber":  0.2,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Oatmeal",
+        "calories":  63.6,
+        "protein":  2.1,
+        "carbs":  11.0,
+        "fat":  1.3,
+        "fiber":  1.9,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Macaroni",
+        "calories":  110.7,
+        "protein":  3.6,
+        "carbs":  22.9,
+        "fat":  0.7,
+        "fiber":  0.1,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Noodles",
+        "calories":  125.0,
+        "protein":  4.4,
+        "carbs":  23.1,
+        "fat":  1.2,
+        "fiber":  0.1,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Wheat flour",
+        "calories":  363.6,
+        "protein":  10.9,
+        "carbs":  76.4,
+        "fat":  0.9,
+        "fiber":  0.3,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cornflakes",
+        "calories":  440.0,
+        "protein":  8.0,
+        "carbs":  100.0,
+        "fat":  0.0,
+        "fiber":  0.4,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Bean soups",
+        "calories":  76.0,
+        "protein":  3.2,
+        "carbs":  12.0,
+        "fat":  2.0,
+        "fiber":  0.2,
+        "category":  "Soups",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Beef soup",
+        "calories":  40.0,
+        "protein":  2.4,
+        "carbs":  4.4,
+        "fat":  1.6,
+        "fiber":  0.2,
+        "category":  "Soups",
+        "unit":  "100g"
+    },
+    {
+        "name":  "chicken soup",
+        "calories":  30.0,
+        "protein":  1.6,
+        "carbs":  4.0,
+        "fat":  0.8,
+        "fiber":  0.0,
+        "category":  "Soups",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tomato soup",
+        "calories":  71.4,
+        "protein":  2.4,
+        "carbs":  9.0,
+        "fat":  2.9,
+        "fiber":  0.2,
+        "category":  "Soups",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Honey",
+        "calories":  285.7,
+        "protein":  0.0,
+        "carbs":  71.4,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Jams, Jellies",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sugar",
+        "calories":  385.0,
+        "protein":  0.0,
+        "carbs":  99.5,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Jams, Jellies",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Almonds",
+        "calories":  607.1,
+        "protein":  18.6,
+        "carbs":  18.6,
+        "fat":  54.3,
+        "fiber":  2.6,
+        "category":  "Seeds and Nuts",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Peanuts",
+        "calories":  580.0,
+        "protein":  26.0,
+        "carbs":  18.0,
+        "fat":  50.0,
+        "fiber":  2.4,
+        "category":  "Seeds and Nuts",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Walnuts",
+        "calories":  650.0,
+        "protein":  14.0,
+        "carbs":  16.0,
+        "fat":  64.0,
+        "fiber":  2.0,
+        "category":  "Seeds and Nuts",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cashews",
+        "calories":  560.0,
+        "protein":  17.1,
+        "carbs":  28.6,
+        "fat":  45.7,
+        "fiber":  1.3,
+        "category":  "Seeds and Nuts",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sesame seeds",
+        "calories":  560.0,
+        "protein":  18.0,
+        "carbs":  20.0,
+        "fat":  48.0,
+        "fiber":  6.2,
+        "category":  "Seeds and Nuts",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cola drinks",
+        "calories":  39.6,
+        "protein":  0.0,
+        "carbs":  11.0,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Drinks,Alcohol, Beverages",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Coffee",
+        "calories":  1.3,
+        "protein":  0.0,
+        "carbs":  0.4,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Drinks,Alcohol, Beverages",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tea",
+        "calories":  1.7,
+        "protein":  0.0,
+        "carbs":  0.4,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Drinks,Alcohol, Beverages",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Beer",
+        "calories":  47.5,
+        "protein":  0.0,
+        "carbs":  1.7,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "Drinks,Alcohol, Beverages",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Chocolate cake",
+        "calories":  327.3,
+        "protein":  7.3,
+        "carbs":  56.4,
+        "fat":  9.1,
+        "fiber":  0.0,
+        "category":  "Desserts, sweets",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Doughnuts",
+        "calories":  409.1,
+        "protein":  6.1,
+        "carbs":  51.5,
+        "fat":  21.2,
+        "fiber":  0.0,
+        "category":  "Desserts, sweets",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Milk chocolate",
+        "calories":  517.9,
+        "protein":  3.6,
+        "carbs":  78.6,
+        "fat":  10.7,
+        "fiber":  0.4,
+        "category":  "Desserts, sweets",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Peanut butter",
+        "calories":  600.0,
+        "protein":  24.0,
+        "carbs":  18.0,
+        "fat":  50.0,
+        "fiber":  1.8,
+        "category":  "Seeds and Nuts",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mercimek Çorbası",
+        "calories":  70,
+        "protein":  4.5,
+        "carbs":  10.2,
+        "fat":  1.8,
+        "fiber":  2.1,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Yayla Çorbası",
+        "calories":  65,
+        "protein":  3.8,
+        "carbs":  7.4,
+        "fat":  2.4,
+        "fiber":  0.2,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ezogelin Çorbası",
+        "calories":  75,
+        "protein":  4.8,
+        "carbs":  11.5,
+        "fat":  1.9,
+        "fiber":  2.4,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tarhana Çorbası",
+        "calories":  68,
+        "protein":  3.2,
+        "carbs":  10.8,
+        "fat":  1.5,
+        "fiber":  1.2,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Domates Çorbası",
+        "calories":  52,
+        "protein":  2.1,
+        "carbs":  7.8,
+        "fat":  1.6,
+        "fiber":  1.0,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Işkembe Çorbası",
+        "calories":  88,
+        "protein":  7.2,
+        "carbs":  4.1,
+        "fat":  4.8,
+        "fiber":  0.0,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sebze Çorbası",
+        "calories":  48,
+        "protein":  2.0,
+        "carbs":  8.2,
+        "fat":  1.0,
+        "fiber":  1.8,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Düğün Çorbası",
+        "calories":  95,
+        "protein":  6.8,
+        "carbs":  5.5,
+        "fat":  5.2,
+        "fiber":  0.1,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Çorbası",
+        "calories":  62,
+        "protein":  5.5,
+        "carbs":  4.8,
+        "fat":  2.2,
+        "fiber":  0.2,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Adana Kebap",
+        "calories":  285,
+        "protein":  18.5,
+        "carbs":  2.1,
+        "fat":  22.4,
+        "fiber":  0.2,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Urfa Kebap",
+        "calories":  265,
+        "protein":  17.8,
+        "carbs":  2.4,
+        "fat":  20.1,
+        "fiber":  0.2,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Şiş Kebap",
+        "calories":  220,
+        "protein":  20.2,
+        "carbs":  1.8,
+        "fat":  14.5,
+        "fiber":  0.1,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Döner Kebap (Tavuk)",
+        "calories":  195,
+        "protein":  18.5,
+        "carbs":  3.2,
+        "fat":  11.8,
+        "fiber":  0.1,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Döner Kebap (Dana)",
+        "calories":  245,
+        "protein":  17.2,
+        "carbs":  2.8,
+        "fat":  18.2,
+        "fiber":  0.1,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Köfte",
+        "calories":  258,
+        "protein":  17.5,
+        "carbs":  5.8,
+        "fat":  18.8,
+        "fiber":  0.4,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuzu Tandır",
+        "calories":  268,
+        "protein":  22.1,
+        "carbs":  0.0,
+        "fat":  19.5,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hünkar Beğendi",
+        "calories":  185,
+        "protein":  12.2,
+        "carbs":  10.5,
+        "fat":  10.8,
+        "fiber":  1.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "İskender Kebap",
+        "calories":  275,
+        "protein":  16.5,
+        "carbs":  14.2,
+        "fat":  17.8,
+        "fiber":  0.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Karnıyarık",
+        "calories":  165,
+        "protein":  9.8,
+        "carbs":  9.5,
+        "fat":  10.2,
+        "fiber":  2.1,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Musakka",
+        "calories":  175,
+        "protein":  10.2,
+        "carbs":  10.8,
+        "fat":  10.5,
+        "fiber":  2.2,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lahmacun",
+        "calories":  218,
+        "protein":  10.5,
+        "carbs":  26.8,
+        "fat":  8.2,
+        "fiber":  1.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pide (Kıymalı)",
+        "calories":  242,
+        "protein":  11.8,
+        "carbs":  28.5,
+        "fat":  9.2,
+        "fiber":  1.2,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mantı",
+        "calories":  245,
+        "protein":  12.5,
+        "carbs":  28.2,
+        "fat":  9.8,
+        "fiber":  1.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sarma (Etli)",
+        "calories":  185,
+        "protein":  8.5,
+        "carbs":  14.5,
+        "fat":  10.8,
+        "fiber":  1.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kavurma",
+        "calories":  320,
+        "protein":  22.5,
+        "carbs":  0.5,
+        "fat":  25.2,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patlıcan Kebabı",
+        "calories":  185,
+        "protein":  12.5,
+        "carbs":  8.5,
+        "fat":  11.5,
+        "fiber":  2.8,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çöp Şiş",
+        "calories":  212,
+        "protein":  19.5,
+        "carbs":  1.5,
+        "fat":  14.2,
+        "fiber":  0.2,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuzu Pirzola",
+        "calories":  252,
+        "protein":  21.5,
+        "carbs":  0.0,
+        "fat":  18.2,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Dana Antrikot",
+        "calories":  282,
+        "protein":  24.5,
+        "carbs":  0.0,
+        "fat":  20.2,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Izgara",
+        "calories":  165,
+        "protein":  25.8,
+        "carbs":  0.0,
+        "fat":  6.2,
+        "fiber":  0.0,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Güveç",
+        "calories":  155,
+        "protein":  18.5,
+        "carbs":  5.2,
+        "fat":  7.2,
+        "fiber":  1.2,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Sote",
+        "calories":  175,
+        "protein":  20.2,
+        "carbs":  4.8,
+        "fat":  8.5,
+        "fiber":  1.0,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Pilav",
+        "calories":  185,
+        "protein":  14.5,
+        "carbs":  18.2,
+        "fat":  6.5,
+        "fiber":  0.5,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çerkez Tavuğu",
+        "calories":  215,
+        "protein":  18.5,
+        "carbs":  5.5,
+        "fat":  13.2,
+        "fiber":  0.8,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Kanat (Izgara)",
+        "calories":  222,
+        "protein":  22.5,
+        "carbs":  0.0,
+        "fat":  14.5,
+        "fiber":  0.0,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "İmam Bayıldı",
+        "calories":  125,
+        "protein":  2.2,
+        "carbs":  10.5,
+        "fat":  8.5,
+        "fiber":  3.2,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinyağlı Fasulye",
+        "calories":  110,
+        "protein":  3.5,
+        "carbs":  12.8,
+        "fat":  5.5,
+        "fiber":  3.5,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinyağlı Enginar",
+        "calories":  95,
+        "protein":  2.2,
+        "carbs":  8.5,
+        "fat":  5.8,
+        "fiber":  3.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinyağlı Pırasa",
+        "calories":  85,
+        "protein":  1.5,
+        "carbs":  9.8,
+        "fat":  4.8,
+        "fiber":  2.2,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patates Yemeği",
+        "calories":  128,
+        "protein":  2.5,
+        "carbs":  16.8,
+        "fat":  6.2,
+        "fiber":  1.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kabak Yemeği",
+        "calories":  78,
+        "protein":  2.0,
+        "carbs":  8.5,
+        "fat":  4.2,
+        "fiber":  1.5,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patlıcan Yemeği",
+        "calories":  95,
+        "protein":  2.2,
+        "carbs":  9.8,
+        "fat":  5.5,
+        "fiber":  2.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Yaprak Sarma (Zeytinyağlı)",
+        "calories":  145,
+        "protein":  3.2,
+        "carbs":  18.5,
+        "fat":  7.2,
+        "fiber":  2.0,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ispanak Yemeği",
+        "calories":  88,
+        "protein":  4.5,
+        "carbs":  5.5,
+        "fat":  5.2,
+        "fiber":  2.5,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Barbunya Pilaki",
+        "calories":  118,
+        "protein":  5.8,
+        "carbs":  14.5,
+        "fat":  4.8,
+        "fiber":  4.2,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Nohut Yemeği",
+        "calories":  165,
+        "protein":  8.5,
+        "carbs":  22.5,
+        "fat":  5.2,
+        "fiber":  5.5,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuru Fasulye",
+        "calories":  155,
+        "protein":  8.2,
+        "carbs":  20.5,
+        "fat":  4.8,
+        "fiber":  5.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mercimek Yemeği",
+        "calories":  145,
+        "protein":  8.8,
+        "carbs":  19.5,
+        "fat":  4.2,
+        "fiber":  5.2,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kabak Mücver",
+        "calories":  145,
+        "protein":  6.5,
+        "carbs":  12.5,
+        "fat":  8.5,
+        "fiber":  1.5,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pirinç Pilavı",
+        "calories":  175,
+        "protein":  3.5,
+        "carbs":  35.8,
+        "fat":  3.2,
+        "fiber":  0.5,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Bulgur Pilavı",
+        "calories":  155,
+        "protein":  4.8,
+        "carbs":  30.5,
+        "fat":  3.0,
+        "fiber":  4.5,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "İç Pilav",
+        "calories":  195,
+        "protein":  5.2,
+        "carbs":  28.5,
+        "fat":  8.5,
+        "fiber":  1.2,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Domatesli Pilav",
+        "calories":  168,
+        "protein":  3.8,
+        "carbs":  32.5,
+        "fat":  3.5,
+        "fiber":  0.8,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Nohutlu Pilav",
+        "calories":  188,
+        "protein":  6.5,
+        "carbs":  32.8,
+        "fat":  4.2,
+        "fiber":  2.5,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sehriyeli Pilav",
+        "calories":  178,
+        "protein":  4.2,
+        "carbs":  34.2,
+        "fat":  3.8,
+        "fiber":  0.8,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Beyaz Peynir",
+        "calories":  265,
+        "protein":  18.5,
+        "carbs":  2.5,
+        "fat":  20.2,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kaşar Peyniri",
+        "calories":  385,
+        "protein":  25.2,
+        "carbs":  2.8,
+        "fat":  30.5,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tulum Peyniri",
+        "calories":  310,
+        "protein":  22.5,
+        "carbs":  2.2,
+        "fat":  24.2,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sucuk",
+        "calories":  412,
+        "protein":  22.5,
+        "carbs":  2.8,
+        "fat":  34.8,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pastırma",
+        "calories":  315,
+        "protein":  28.5,
+        "carbs":  2.0,
+        "fat":  21.5,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Simit",
+        "calories":  295,
+        "protein":  9.5,
+        "carbs":  55.2,
+        "fat":  4.8,
+        "fiber":  2.2,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Poğaça",
+        "calories":  345,
+        "protein":  8.5,
+        "carbs":  42.5,
+        "fat":  16.5,
+        "fiber":  1.2,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Börek (Peynirli)",
+        "calories":  310,
+        "protein":  10.5,
+        "carbs":  28.5,
+        "fat":  18.2,
+        "fiber":  1.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Menemen",
+        "calories":  125,
+        "protein":  7.5,
+        "carbs":  6.5,
+        "fat":  8.5,
+        "fiber":  1.2,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sahanda Yumurta",
+        "calories":  185,
+        "protein":  11.5,
+        "carbs":  0.5,
+        "fat":  15.2,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tahin",
+        "calories":  595,
+        "protein":  17.5,
+        "carbs":  21.5,
+        "fat":  53.2,
+        "fiber":  3.8,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pekmez",
+        "calories":  282,
+        "protein":  1.5,
+        "carbs":  68.5,
+        "fat":  0.5,
+        "fiber":  0.8,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kaymak",
+        "calories":  428,
+        "protein":  3.5,
+        "carbs":  4.2,
+        "fat":  44.5,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tarhana",
+        "calories":  338,
+        "protein":  12.5,
+        "carbs":  62.5,
+        "fat":  3.8,
+        "fiber":  3.5,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lor Peyniri",
+        "calories":  105,
+        "protein":  11.5,
+        "carbs":  4.2,
+        "fat":  5.2,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Baklava",
+        "calories":  485,
+        "protein":  6.5,
+        "carbs":  58.5,
+        "fat":  26.5,
+        "fiber":  1.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kadayıf",
+        "calories":  385,
+        "protein":  5.8,
+        "carbs":  52.5,
+        "fat":  18.5,
+        "fiber":  1.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Künefe",
+        "calories":  395,
+        "protein":  8.5,
+        "carbs":  42.5,
+        "fat":  22.5,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sütlaç",
+        "calories":  145,
+        "protein":  4.5,
+        "carbs":  24.5,
+        "fat":  3.8,
+        "fiber":  0.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kazandibi",
+        "calories":  175,
+        "protein":  5.2,
+        "carbs":  28.5,
+        "fat":  5.0,
+        "fiber":  0.1,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Muhallebi",
+        "calories":  135,
+        "protein":  4.2,
+        "carbs":  22.5,
+        "fat":  3.5,
+        "fiber":  0.1,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Aşure",
+        "calories":  168,
+        "protein":  4.8,
+        "carbs":  32.5,
+        "fat":  3.2,
+        "fiber":  3.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lokum",
+        "calories":  325,
+        "protein":  0.8,
+        "carbs":  78.5,
+        "fat":  0.5,
+        "fiber":  0.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Helva (Tahin)",
+        "calories":  525,
+        "protein":  8.5,
+        "carbs":  58.5,
+        "fat":  30.5,
+        "fiber":  2.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Helva (İrmik)",
+        "calories":  398,
+        "protein":  5.5,
+        "carbs":  52.5,
+        "fat":  19.5,
+        "fiber":  0.8,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Revani",
+        "calories":  285,
+        "protein":  5.2,
+        "carbs":  52.5,
+        "fat":  6.8,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Şekerpare",
+        "calories":  365,
+        "protein":  5.5,
+        "carbs":  55.5,
+        "fat":  14.5,
+        "fiber":  0.8,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lokma",
+        "calories":  345,
+        "protein":  4.2,
+        "carbs":  52.5,
+        "fat":  13.5,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Dondurma (Maraş)",
+        "calories":  225,
+        "protein":  4.5,
+        "carbs":  28.5,
+        "fat":  11.5,
+        "fiber":  0.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pestil",
+        "calories":  288,
+        "protein":  3.5,
+        "carbs":  72.5,
+        "fat":  0.8,
+        "fiber":  2.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çay (Sade)",
+        "calories":  2,
+        "protein":  0.1,
+        "carbs":  0.5,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Türk Kahvesi (Şekersiz)",
+        "calories":  5,
+        "protein":  0.2,
+        "carbs":  0.8,
+        "fat":  0.1,
+        "fiber":  0.0,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Türk Kahvesi (Şekerli)",
+        "calories":  35,
+        "protein":  0.2,
+        "carbs":  8.5,
+        "fat":  0.1,
+        "fiber":  0.0,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ayran",
+        "calories":  48,
+        "protein":  3.2,
+        "carbs":  3.8,
+        "fat":  2.2,
+        "fiber":  0.0,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Şalgam",
+        "calories":  22,
+        "protein":  0.8,
+        "carbs":  4.5,
+        "fat":  0.1,
+        "fiber":  0.5,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Boza",
+        "calories":  88,
+        "protein":  2.5,
+        "carbs":  18.5,
+        "fat":  0.5,
+        "fiber":  0.5,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Salep",
+        "calories":  145,
+        "protein":  2.5,
+        "carbs":  28.5,
+        "fat":  3.2,
+        "fiber":  0.2,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Limonata",
+        "calories":  45,
+        "protein":  0.2,
+        "carbs":  11.5,
+        "fat":  0.0,
+        "fiber":  0.1,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Maden Suyu",
+        "calories":  0,
+        "protein":  0.0,
+        "carbs":  0.0,
+        "fat":  0.0,
+        "fiber":  0.0,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hummus",
+        "calories":  165,
+        "protein":  8.5,
+        "carbs":  14.5,
+        "fat":  9.2,
+        "fiber":  4.8,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Haydari",
+        "calories":  125,
+        "protein":  6.5,
+        "carbs":  5.2,
+        "fat":  9.5,
+        "fiber":  0.5,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cacık",
+        "calories":  58,
+        "protein":  3.5,
+        "carbs":  4.5,
+        "fat":  3.0,
+        "fiber":  0.5,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Acılı Ezme",
+        "calories":  55,
+        "protein":  1.8,
+        "carbs":  8.5,
+        "fat":  2.2,
+        "fiber":  2.2,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patlıcan Salatası",
+        "calories":  95,
+        "protein":  1.5,
+        "carbs":  7.5,
+        "fat":  6.8,
+        "fiber":  2.5,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kısır",
+        "calories":  155,
+        "protein":  4.5,
+        "carbs":  25.5,
+        "fat":  4.8,
+        "fiber":  3.8,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çoban Salatası",
+        "calories":  65,
+        "protein":  1.8,
+        "carbs":  6.5,
+        "fat":  3.8,
+        "fiber":  1.8,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Gavurdağı Salatası",
+        "calories":  145,
+        "protein":  3.5,
+        "carbs":  8.5,
+        "fat":  11.2,
+        "fiber":  2.2,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mercimek Köftesi",
+        "calories":  195,
+        "protein":  8.5,
+        "carbs":  28.5,
+        "fat":  5.8,
+        "fiber":  5.5,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pide Ekmeği",
+        "calories":  265,
+        "protein":  8.5,
+        "carbs":  52.5,
+        "fat":  2.8,
+        "fiber":  2.2,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lavaş",
+        "calories":  275,
+        "protein":  9.2,
+        "carbs":  54.5,
+        "fat":  3.2,
+        "fiber":  2.5,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Yufka",
+        "calories":  312,
+        "protein":  9.5,
+        "carbs":  60.5,
+        "fat":  4.5,
+        "fiber":  2.0,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Gözleme (Peynirli)",
+        "calories":  265,
+        "protein":  9.5,
+        "carbs":  32.5,
+        "fat":  11.5,
+        "fiber":  1.2,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Gözleme (Ispanaklı)",
+        "calories":  235,
+        "protein":  7.5,
+        "carbs":  30.5,
+        "fat":  10.2,
+        "fiber":  2.5,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Su Böreği",
+        "calories":  285,
+        "protein":  10.5,
+        "carbs":  28.5,
+        "fat":  15.5,
+        "fiber":  0.8,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sigara Böreği",
+        "calories":  295,
+        "protein":  9.8,
+        "carbs":  26.5,
+        "fat":  17.5,
+        "fiber":  0.8,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Açma",
+        "calories":  355,
+        "protein":  8.5,
+        "carbs":  48.5,
+        "fat":  15.5,
+        "fiber":  1.2,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hamsi (Izgara)",
+        "calories":  155,
+        "protein":  20.5,
+        "carbs":  0.0,
+        "fat":  8.2,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Levrek (Izgara)",
+        "calories":  145,
+        "protein":  21.5,
+        "carbs":  0.0,
+        "fat":  6.5,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çipura (Izgara)",
+        "calories":  148,
+        "protein":  22.2,
+        "carbs":  0.0,
+        "fat":  6.8,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lüfer (Izgara)",
+        "calories":  158,
+        "protein":  19.8,
+        "carbs":  0.0,
+        "fat":  8.8,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Palamut (Izgara)",
+        "calories":  172,
+        "protein":  21.2,
+        "carbs":  0.0,
+        "fat":  9.5,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Midye Dolma",
+        "calories":  145,
+        "protein":  8.5,
+        "carbs":  14.5,
+        "fat":  5.8,
+        "fiber":  0.5,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hamsi Tava",
+        "calories":  195,
+        "protein":  18.5,
+        "carbs":  5.5,
+        "fat":  11.5,
+        "fiber":  0.2,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sardalya (Konserve)",
+        "calories":  208,
+        "protein":  24.6,
+        "carbs":  0.0,
+        "fat":  11.5,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ton Balığı (Konserve)",
+        "calories":  128,
+        "protein":  28.0,
+        "carbs":  0.0,
+        "fat":  1.0,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Domates Salçası",
+        "calories":  82,
+        "protein":  3.8,
+        "carbs":  15.5,
+        "fat":  0.5,
+        "fiber":  3.5,
+        "category":  "Baharatlar \u0026 Soslar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Biber Salçası",
+        "calories":  88,
+        "protein":  3.5,
+        "carbs":  16.5,
+        "fat":  0.8,
+        "fiber":  4.2,
+        "category":  "Baharatlar \u0026 Soslar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Nar Ekşisi",
+        "calories":  265,
+        "protein":  0.5,
+        "carbs":  65.5,
+        "fat":  0.2,
+        "fiber":  0.5,
+        "category":  "Baharatlar \u0026 Soslar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sumak",
+        "calories":  278,
+        "protein":  3.5,
+        "carbs":  48.5,
+        "fat":  6.8,
+        "fiber":  12.5,
+        "category":  "Baharatlar \u0026 Soslar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çekirdek (Ayçiçeği)",
+        "calories":  582,
+        "protein":  20.5,
+        "carbs":  20.5,
+        "fat":  51.5,
+        "fiber":  8.5,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kabak Çekirdeği",
+        "calories":  558,
+        "protein":  29.5,
+        "carbs":  15.5,
+        "fat":  49.5,
+        "fiber":  6.0,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Leblebi",
+        "calories":  368,
+        "protein":  20.5,
+        "carbs":  55.5,
+        "fat":  6.8,
+        "fiber":  10.5,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Fındık",
+        "calories":  628,
+        "protein":  15.0,
+        "carbs":  17.5,
+        "fat":  60.5,
+        "fiber":  9.7,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Antep Fıstığı",
+        "calories":  562,
+        "protein":  20.2,
+        "carbs":  27.5,
+        "fat":  45.5,
+        "fiber":  10.3,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuru Üzüm",
+        "calories":  299,
+        "protein":  3.1,
+        "carbs":  79.2,
+        "fat":  0.5,
+        "fiber":  3.7,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuru Kayısı",
+        "calories":  241,
+        "protein":  3.4,
+        "carbs":  62.6,
+        "fat":  0.5,
+        "fiber":  7.3,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuru İncir",
+        "calories":  249,
+        "protein":  3.3,
+        "carbs":  63.9,
+        "fat":  0.9,
+        "fiber":  9.8,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çerkez Cevizi",
+        "calories":  654,
+        "protein":  15.2,
+        "carbs":  13.7,
+        "fat":  65.2,
+        "fiber":  6.7,
+        "category":  "Kuruyemiş",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pilav Üstü Döner",
+        "calories":  265,
+        "protein":  15.5,
+        "carbs":  22.5,
+        "fat":  12.5,
+        "fiber":  0.8,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuru Köfte",
+        "calories":  278,
+        "protein":  18.5,
+        "carbs":  8.5,
+        "fat":  19.5,
+        "fiber":  0.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk But (Fırın)",
+        "calories":  195,
+        "protein":  24.2,
+        "carbs":  0.0,
+        "fat":  10.8,
+        "fiber":  0.0,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinyağlı Kereviz",
+        "calories":  88,
+        "protein":  1.8,
+        "carbs":  9.2,
+        "fat":  5.2,
+        "fiber":  2.5,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Taze Fasulye",
+        "calories":  72,
+        "protein":  2.5,
+        "carbs":  8.8,
+        "fat":  3.2,
+        "fiber":  2.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patates Köftesi",
+        "calories":  175,
+        "protein":  5.2,
+        "carbs":  22.5,
+        "fat":  7.8,
+        "fiber":  2.2,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Arpa Şehriyeli Pilav",
+        "calories":  162,
+        "protein":  4.5,
+        "carbs":  31.5,
+        "fat":  2.8,
+        "fiber":  2.5,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çökelek",
+        "calories":  98,
+        "protein":  12.5,
+        "carbs":  3.2,
+        "fat":  4.5,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Keçi Peyniri",
+        "calories":  268,
+        "protein":  18.5,
+        "carbs":  2.2,
+        "fat":  21.5,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Güllaç",
+        "calories":  145,
+        "protein":  5.5,
+        "carbs":  25.8,
+        "fat":  3.2,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Göğsü (Tatlı)",
+        "calories":  152,
+        "protein":  6.5,
+        "carbs":  24.5,
+        "fat":  3.8,
+        "fiber":  0.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Şıra",
+        "calories":  72,
+        "protein":  0.5,
+        "carbs":  17.5,
+        "fat":  0.1,
+        "fiber":  0.3,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Taze Sıkılmış Portakal Suyu",
+        "calories":  45,
+        "protein":  0.7,
+        "carbs":  10.4,
+        "fat":  0.2,
+        "fiber":  0.2,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Semizotu Salatası",
+        "calories":  72,
+        "protein":  2.5,
+        "carbs":  5.5,
+        "fat":  4.5,
+        "fiber":  1.8,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Balık Ekmek",
+        "calories":  235,
+        "protein":  15.5,
+        "carbs":  24.5,
+        "fat":  8.5,
+        "fiber":  1.2,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hamsi Pilakisi",
+        "calories":  168,
+        "protein":  14.5,
+        "carbs":  8.5,
+        "fat":  9.2,
+        "fiber":  1.2,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Katmer",
+        "calories":  425,
+        "protein":  7.5,
+        "carbs":  48.5,
+        "fat":  23.5,
+        "fiber":  1.0,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Falafel",
+        "calories":  333,
+        "protein":  13.3,
+        "carbs":  31.8,
+        "fat":  17.8,
+        "fiber":  4.9,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zerde",
+        "calories":  145,
+        "protein":  2.5,
+        "carbs":  30.5,
+        "fat":  2.2,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pul Biber",
+        "calories":  282,
+        "protein":  12.5,
+        "carbs":  38.5,
+        "fat":  12.5,
+        "fiber":  22.5,
+        "category":  "Baharatlar \u0026 Soslar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Deniz Börülcesi Salatası",
+        "calories":  52,
+        "protein":  2.2,
+        "carbs":  5.5,
+        "fat":  2.5,
+        "fiber":  2.2,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Semizotu",
+        "calories":  65,
+        "protein":  2.0,
+        "carbs":  7.2,
+        "fat":  3.5,
+        "fiber":  1.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çılbır",
+        "calories":  165,
+        "protein":  10.2,
+        "carbs":  2.8,
+        "fat":  12.5,
+        "fiber":  0.2,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Börek (Kıymalı)",
+        "calories":  325,
+        "protein":  12.5,
+        "carbs":  26.8,
+        "fat":  19.5,
+        "fiber":  0.8,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Karabuğday (Kavrulmuş)",
+        "calories":  155,
+        "protein":  5.7,
+        "carbs":  33.5,
+        "fat":  1.0,
+        "fiber":  2.7,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tulumba",
+        "calories":  385,
+        "protein":  4.5,
+        "carbs":  58.5,
+        "fat":  16.5,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Keşkül",
+        "calories":  158,
+        "protein":  5.8,
+        "carbs":  22.5,
+        "fat":  5.5,
+        "fiber":  0.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Türlü",
+        "calories":  95,
+        "protein":  2.8,
+        "carbs":  12.5,
+        "fat":  4.2,
+        "fiber":  2.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Biber Dolma (Zeytinyağlı)",
+        "calories":  125,
+        "protein":  2.8,
+        "carbs":  16.5,
+        "fat":  5.8,
+        "fiber":  1.8,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Etli Türlü",
+        "calories":  142,
+        "protein":  10.5,
+        "carbs":  9.8,
+        "fat":  7.2,
+        "fiber":  2.4,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuzu Güveç",
+        "calories":  195,
+        "protein":  16.4,
+        "carbs":  6.8,
+        "fat":  12.2,
+        "fiber":  1.2,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Dolma (Etli Biber)",
+        "calories":  162,
+        "protein":  7.8,
+        "carbs":  12.5,
+        "fat":  9.5,
+        "fiber":  1.8,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "İzmir Köfte",
+        "calories":  248,
+        "protein":  16.8,
+        "carbs":  7.2,
+        "fat":  17.5,
+        "fiber":  0.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Paça Çorbası",
+        "calories":  92,
+        "protein":  8.5,
+        "carbs":  3.2,
+        "fat":  5.1,
+        "fiber":  0.0,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Toyga Çorbası",
+        "calories":  72,
+        "protein":  4.2,
+        "carbs":  8.6,
+        "fat":  2.5,
+        "fiber":  0.3,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Pirinç Pilavı (Sade)",
+        "calories":  170,
+        "protein":  3.2,
+        "carbs":  36.0,
+        "fat":  2.5,
+        "fiber":  0.4,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinyağlı Barbunya",
+        "calories":  105,
+        "protein":  5.5,
+        "carbs":  13.5,
+        "fat":  4.2,
+        "fiber":  4.0,
+        "category":  "Sebze Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Fırın Sütlaç",
+        "calories":  158,
+        "protein":  4.8,
+        "carbs":  26.5,
+        "fat":  4.2,
+        "fiber":  0.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tarama",
+        "calories":  325,
+        "protein":  8.5,
+        "carbs":  5.2,
+        "fat":  30.5,
+        "fiber":  0.2,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patlıcan Tava",
+        "calories":  145,
+        "protein":  2.0,
+        "carbs":  9.5,
+        "fat":  11.5,
+        "fiber":  2.5,
+        "category":  "Mezele r",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Menemen (Sucuklu)",
+        "calories":  165,
+        "protein":  9.5,
+        "carbs":  6.8,
+        "fat":  11.5,
+        "fiber":  1.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Fırın Tavuk",
+        "calories":  185,
+        "protein":  24.5,
+        "carbs":  0.5,
+        "fat":  9.2,
+        "fiber":  0.0,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tavuk Şiş",
+        "calories":  175,
+        "protein":  22.5,
+        "carbs":  2.5,
+        "fat":  8.5,
+        "fiber":  0.5,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Balık Buğulama",
+        "calories":  125,
+        "protein":  20.5,
+        "carbs":  2.5,
+        "fat":  4.2,
+        "fiber":  0.5,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çipura Fırın",
+        "calories":  155,
+        "protein":  22.0,
+        "carbs":  1.5,
+        "fat":  7.2,
+        "fiber":  0.2,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kalamar Tava",
+        "calories":  195,
+        "protein":  16.5,
+        "carbs":  12.5,
+        "fat":  9.5,
+        "fiber":  0.5,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ahtapot Salatası",
+        "calories":  115,
+        "protein":  14.5,
+        "carbs":  5.5,
+        "fat":  4.5,
+        "fiber":  0.5,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Izgara Somon",
+        "calories":  195,
+        "protein":  22.5,
+        "carbs":  0.0,
+        "fat":  11.5,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Beyti Kebap",
+        "calories":  268,
+        "protein":  19.5,
+        "carbs":  3.5,
+        "fat":  19.5,
+        "fiber":  0.3,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kıymalı Pide",
+        "calories":  238,
+        "protein":  12.5,
+        "carbs":  27.5,
+        "fat":  9.5,
+        "fiber":  1.2,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kaşarlı Pide",
+        "calories":  265,
+        "protein":  12.5,
+        "carbs":  28.5,
+        "fat":  12.5,
+        "fiber":  1.0,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çiğ Börek",
+        "calories":  315,
+        "protein":  10.5,
+        "carbs":  30.5,
+        "fat":  17.5,
+        "fiber":  1.0,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ispanak Böreği",
+        "calories":  245,
+        "protein":  8.5,
+        "carbs":  26.5,
+        "fat":  12.5,
+        "fiber":  2.0,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinli Ekmek",
+        "calories":  255,
+        "protein":  7.5,
+        "carbs":  46.5,
+        "fat":  5.5,
+        "fiber":  2.8,
+        "category":  "Ekmek \u0026 Hamur İşleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Nohutlu Çorba",
+        "calories":  85,
+        "protein":  5.5,
+        "carbs":  12.5,
+        "fat":  2.2,
+        "fiber":  3.5,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Bulgur Çorbası",
+        "calories":  78,
+        "protein":  3.5,
+        "carbs":  13.5,
+        "fat":  1.8,
+        "fiber":  2.5,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Domates Soslu Makarna",
+        "calories":  155,
+        "protein":  5.5,
+        "carbs":  28.5,
+        "fat":  3.2,
+        "fiber":  2.0,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kıymalı Makarna",
+        "calories":  195,
+        "protein":  10.5,
+        "carbs":  25.5,
+        "fat":  6.5,
+        "fiber":  1.5,
+        "category":  "Breads, cereals, fastfood,grains",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Çorba Suyuyla Pilav",
+        "calories":  165,
+        "protein":  3.8,
+        "carbs":  33.5,
+        "fat":  3.0,
+        "fiber":  0.5,
+        "category":  "Pilavlar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Mısır Çorbası",
+        "calories":  82,
+        "protein":  3.2,
+        "carbs":  14.5,
+        "fat":  1.8,
+        "fiber":  1.5,
+        "category":  "Çorbalar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Paça",
+        "calories":  115,
+        "protein":  12.5,
+        "carbs":  0.5,
+        "fat":  7.2,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kelle Paça",
+        "calories":  125,
+        "protein":  13.5,
+        "carbs":  0.5,
+        "fat":  8.2,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Patlıcan Kebabı (Fırın)",
+        "calories":  175,
+        "protein":  11.5,
+        "carbs":  8.5,
+        "fat":  11.0,
+        "fiber":  2.5,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuzu Fırın",
+        "calories":  245,
+        "protein":  22.5,
+        "carbs":  0.5,
+        "fat":  17.5,
+        "fiber":  0.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Güveç",
+        "calories":  145,
+        "protein":  10.5,
+        "carbs":  9.5,
+        "fat":  7.5,
+        "fiber":  1.8,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tarhana Helvası",
+        "calories":  355,
+        "protein":  5.5,
+        "carbs":  48.5,
+        "fat":  16.5,
+        "fiber":  1.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kestane Şekeri",
+        "calories":  285,
+        "protein":  2.5,
+        "carbs":  62.5,
+        "fat":  2.5,
+        "fiber":  3.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tahin Helvası",
+        "calories":  495,
+        "protein":  9.5,
+        "carbs":  52.5,
+        "fat":  29.5,
+        "fiber":  2.8,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Fıstıklı Baklava",
+        "calories":  510,
+        "protein":  7.5,
+        "carbs":  60.5,
+        "fat":  27.5,
+        "fiber":  1.8,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Limonlu Şerbet",
+        "calories":  85,
+        "protein":  0.2,
+        "carbs":  22.5,
+        "fat":  0.0,
+        "fiber":  0.1,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Portakal Suyu (Hazır)",
+        "calories":  45,
+        "protein":  0.5,
+        "carbs":  11.0,
+        "fat":  0.1,
+        "fiber":  0.2,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Elma Çayı",
+        "calories":  25,
+        "protein":  0.1,
+        "carbs":  6.5,
+        "fat":  0.0,
+        "fiber":  0.1,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Ihlamur",
+        "calories":  5,
+        "protein":  0.1,
+        "carbs":  1.2,
+        "fat":  0.0,
+        "fiber":  0.1,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Adaçayı",
+        "calories":  4,
+        "protein":  0.1,
+        "carbs":  0.8,
+        "fat":  0.0,
+        "fiber":  0.2,
+        "category":  "İçecekler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cacık (Sulu)",
+        "calories":  42,
+        "protein":  2.5,
+        "carbs":  3.5,
+        "fat":  2.0,
+        "fiber":  0.3,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Haydari (Cevizli)",
+        "calories":  145,
+        "protein":  6.8,
+        "carbs":  5.5,
+        "fat":  11.2,
+        "fiber":  0.8,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Atom (Meze)",
+        "calories":  125,
+        "protein":  5.5,
+        "carbs":  8.5,
+        "fat":  8.5,
+        "fiber":  1.5,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kalamar Salatası",
+        "calories":  95,
+        "protein":  12.5,
+        "carbs":  5.5,
+        "fat":  3.2,
+        "fiber":  0.5,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Karides Güveç",
+        "calories":  125,
+        "protein":  16.5,
+        "carbs":  4.5,
+        "fat":  5.5,
+        "fiber":  0.5,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Midye Tava",
+        "calories":  185,
+        "protein":  12.5,
+        "carbs":  15.5,
+        "fat":  8.5,
+        "fiber":  0.5,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Lakerda",
+        "calories":  168,
+        "protein":  18.5,
+        "carbs":  0.0,
+        "fat":  10.5,
+        "fiber":  0.0,
+        "category":  "Balık",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Fındıklı Kurabiye",
+        "calories":  445,
+        "protein":  6.5,
+        "carbs":  55.5,
+        "fat":  23.5,
+        "fiber":  1.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Cevizli Sarma",
+        "calories":  175,
+        "protein":  4.5,
+        "carbs":  20.5,
+        "fat":  9.5,
+        "fiber":  2.0,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Muhallebi (Sütlaç)",
+        "calories":  148,
+        "protein":  4.8,
+        "carbs":  25.5,
+        "fat":  3.8,
+        "fiber":  0.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Tiritik",
+        "calories":  285,
+        "protein":  12.5,
+        "carbs":  28.5,
+        "fat":  13.5,
+        "fiber":  1.0,
+        "category":  "Et Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Bıldırcın Izgara",
+        "calories":  175,
+        "protein":  22.5,
+        "carbs":  0.0,
+        "fat":  9.5,
+        "fiber":  0.0,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Hindi Dolma",
+        "calories":  195,
+        "protein":  20.5,
+        "carbs":  8.5,
+        "fat":  9.5,
+        "fiber":  0.8,
+        "category":  "Tavuk Yemekleri",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Sucuklu Yumurta",
+        "calories":  215,
+        "protein":  13.5,
+        "carbs":  1.5,
+        "fat":  17.5,
+        "fiber":  0.0,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kaygana",
+        "calories":  175,
+        "protein":  8.5,
+        "carbs":  12.5,
+        "fat":  10.5,
+        "fiber":  0.5,
+        "category":  "Kahvaltılıklar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Zeytinyağlı Yaprak Sarma",
+        "calories":  142,
+        "protein":  3.0,
+        "carbs":  18.0,
+        "fat":  7.0,
+        "fiber":  1.8,
+        "category":  "Mezeler",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Kuru Kayısı Kompostosu",
+        "calories":  95,
+        "protein":  0.8,
+        "carbs":  24.5,
+        "fat":  0.2,
+        "fiber":  2.5,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    },
+    {
+        "name":  "Komposto (Elma)",
+        "calories":  68,
+        "protein":  0.3,
+        "carbs":  17.5,
+        "fat":  0.1,
+        "fiber":  1.2,
+        "category":  "Tatlılar",
+        "unit":  "100g"
+    }
+]
